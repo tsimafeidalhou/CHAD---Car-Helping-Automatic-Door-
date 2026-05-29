@@ -29,7 +29,7 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(PIXEL_COUNT, PIXEL_PIN, PIXEL_TYPE);
 
 // Timing
 #define MEASURE_INTERVAL 200
-#define TIMER_WAIT 30000       // 30 seconds
+#define TIMER_WAIT 30000      
 
 
 // State variables
