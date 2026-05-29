@@ -1,4 +1,5 @@
 // Photon 2 Garage Parking Assistant
+// By Tsimafei Dalhou
 #include "Particle.h"
 #include "neopixel.h"
 
